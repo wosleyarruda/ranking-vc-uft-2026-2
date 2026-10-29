@@ -1,8 +1,5 @@
 {
  "lista": "Lista 01 — O Tabuleiro Cultural",
- "atualizado_em": "— (ainda sem correções)",
- "nota_maxima": 100,
- "exercicios": ["ex01", "ex02", "ex03", "ex04", "ex05", "ex06", "ex07", "ex08", "ex09", "ex10", "ex11", "ex12", "ex13", "ex14"],
- "respostas_maximo": 18,
+ "oculto": true,
  "linhas": []
 }
